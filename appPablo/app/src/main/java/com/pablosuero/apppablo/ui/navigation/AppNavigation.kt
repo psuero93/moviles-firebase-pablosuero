@@ -17,6 +17,12 @@ fun AppNavigation(navController: NavHostController) {
     val listViewModel: ListViewModel = viewModel()
 
     NavHost(navController = navController, startDestination = List) {
+        composable<Home> {  }
+
+        composable<SignUp> {  }
+
+        composable<ForgotPassword> {  }
+
         composable<List> {
             ListScreen(
                 listViewModel = listViewModel,

@@ -8,3 +8,12 @@ object List
 
 @Serializable
 data class Detail(val id: String)
+
+@Serializable
+object SignUp
+
+@Serializable
+object Home
+
+@Serializable
+object ForgotPassword

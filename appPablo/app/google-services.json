@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561269341120",
+    "project_id": "apppablofirebase",
+    "storage_bucket": "apppablofirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561269341120:android:899a5911cceb82be60a625",
+        "android_client_info": {
+          "package_name": "com.pablosuero.apppablo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561269341120-1105erh8ieah619659aohjav4t7i6hu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pablosuero.apppablo",
+            "certificate_hash": "b9a03976af2366a2a8383ad778597806200b4d86"
+          }
+        },
+        {
+          "client_id": "561269341120-ml4bid0793jp97ntvv70vpcphab3hskf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBd_Z7xUwwD53R3fbGNjtSDALhEZebof8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561269341120-ml4bid0793jp97ntvv70vpcphab3hskf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
