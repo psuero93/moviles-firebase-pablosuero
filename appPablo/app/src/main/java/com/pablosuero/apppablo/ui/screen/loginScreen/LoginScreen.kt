@@ -45,6 +45,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.firebase.auth.GoogleAuthProvider
+import com.pablosuero.apppablo.R
 import com.pablosuero.apppablo.data.model.AuthManager
 import com.pablosuero.apppablo.data.model.AuthRes
 import com.pablosuero.apppablo.ui.theme.Purple40
